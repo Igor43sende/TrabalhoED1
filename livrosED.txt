@@ -1,0 +1,100 @@
+1;Dom Quixote;Miguel de Cervantes;1605;Clássico
+2;Orgulho e Preconceito;Jane Austen;1813;Romance
+3;1984;George Orwell;1949;Distopia
+4;O Senhor dos Anéis;J.R.R. Tolkien;1954;Fantasia
+5;Moby Dick;Herman Melville;1851;Aventura
+6;O Grande Gatsby;F. Scott Fitzgerald;1925;Ficção
+7;A Revolução dos Bichos;George Orwell;1945;Sátira
+8;A Arte da Guerra;Sun Tzu;-500;Estratégia
+9;Crime e Castigo;Fiódor Dostoiévski;1866;Drama
+10;A Divina Comédia;Dante Alighieri;1320;Poesia
+11;O Pequeno Príncipe;Antoine de Saint-Exupéry;1943;Infantil
+12;O Apanhador no Campo de Centeio;J.D. Salinger;1951;Ficção
+13;As Crônicas de Nárnia;C.S. Lewis;1950;Fantasia
+14;Os Miseráveis;Victor Hugo;1862;Drama
+15;O Código Da Vinci;Dan Brown;2003;Suspense
+16;O Hobbit;J.R.R. Tolkien;1937;Fantasia
+17;Guerra e Paz;Liev Tolstói;1869;Histórico
+18;Ulisses;James Joyce;1922;Modernismo
+19;O Morro dos Ventos Uivantes;Emily Brontë;1847;Romance
+20;Os Irmãos Karamázov;Fiódor Dostoiévski;1880;Filosofia
+21;O Retrato de Dorian Gray;Oscar Wilde;1890;Ficção
+22;Frankenstein;Mary Shelley;1818;Terror
+23;Drácula;Bram Stoker;1897;Terror
+24;Admirável Mundo Novo;Aldous Huxley;1932;Distopia
+25;Fahrenheit 451;Ray Bradbury;1953;Distopia
+26;Jane Eyre;Charlotte Brontë;1847;Romance
+27;O Processo;Franz Kafka;1925;Ficção
+28;O Sol é Para Todos;Harper Lee;1960;Drama
+29;Cem Anos de Solidão;Gabriel García Márquez;1967;Realismo Mágico
+30;O Velho e o Mar;Ernest Hemingway;1952;Aventura
+31;O Lobo da Estepe;Hermann Hesse;1927;Filosofia
+32;As Aventuras de Huckleberry Finn;Mark Twain;1884;Aventura
+33;Alice no País das Maravilhas;Lewis Carroll;1865;Fantasia
+34;A Metamorfose;Franz Kafka;1915;Ficção
+35;Senhor das Moscas;William Golding;1954;Distopia
+36;O Nome da Rosa;Umberto Eco;1980;Mistério
+37;O Alquimista;Paulo Coelho;1988;Filosofia
+38;Memórias Póstumas de Brás Cubas;Machado de Assis;1881;Clássico
+39;O Guarani;José de Alencar;1857;Romance
+40;Quincas Borba;Machado de Assis;1891;Filosofia
+41;A Moreninha;Joaquim Manuel de Macedo;1844;Romance
+42;Macunaíma;Mário de Andrade;1928;Modernismo
+43;Grande Sertão: Veredas;João Guimarães Rosa;1956;Ficção
+44;Vidas Secas;Graciliano Ramos;1938;Realismo
+45;Capitães da Areia;Jorge Amado;1937;Drama
+46;Tieta do Agreste;Jorge Amado;1977;Romance
+47;A Hora da Estrela;Clarice Lispector;1977;Ficção
+48;A Paixão Segundo G.H.;Clarice Lispector;1964;Filosofia
+49;O Alienista;Machado de Assis;1882;Sátira
+50;O Quinze;Rachel de Queiroz;1930;Drama
+51;O Homem Invisível;H.G. Wells;1897;Ficção Científica
+52;A Máquina do Tempo;H.G. Wells;1895;Ficção Científica
+53;Os Três Mosqueteiros;Alexandre Dumas;1844;Aventura
+54;O Conde de Monte Cristo;Alexandre Dumas;1844;Aventura
+55;Viagem ao Centro da Terra;Júlio Verne;1864;Ficção Científica
+56;20 Mil Léguas Submarinas;Júlio Verne;1870;Ficção Científica
+57;A Ilha do Tesouro;Robert Louis Stevenson;1883;Aventura
+58;O Médico e o Monstro;Robert Louis Stevenson;1886;Terror
+59;Robinson Crusoé;Daniel Defoe;1719;Aventura
+60;A Eneida;Virgílio;-19;Poesia
+61;Os Lusíadas;Luís de Camões;1572;Épico
+62;Beowulf;Autor Desconhecido;700;Épico
+63;Hamlet;William Shakespeare;1601;Drama
+64;Romeu e Julieta;William Shakespeare;1597;Romance
+65;Rei Lear;William Shakespeare;1606;Drama
+66;A Tempestade;William Shakespeare;1611;Ficção
+67;Odisseia;Homero;-800;Épico
+68;Ilíada;Homero;-750;Épico
+69;A República;Platão;-380;Filosofia
+70;Ética a Nicômaco;Aristóteles;-350;Filosofia
+71;Meditations;Marco Aurélio;180;Filosofia
+72;A Origem das Espécies;Charles Darwin;1859;Ciência
+73;O Capital;Karl Marx;1867;Economia
+74;A Riqueza das Nações;Adam Smith;1776;Economia
+75;O Príncipe;Maquiavel;1532;Política
+76;Manifesto Comunista;Karl Marx;1848;Política
+77;A Bíblia;Vários Autores;0;Religião
+78;O Alcorão;Vários Autores;632;Religião
+79;O Livro de Mórmon;Joseph Smith;1830;Religião
+80;Bhagavad Gita;Vários Autores;-200;Religião
+81;Torá;Vários Autores;-600;Religião
+82;História da Filosofia;Will Durant;1926;Filosofia
+83;O Gene Egoísta;Richard Dawkins;1976;Ciência
+84;Sapiens;Yuval Noah Harari;2011;História
+85;Homo Deus;Yuval Noah Harari;2015;Futuro
+86;21 Lições para o Século 21;Yuval Noah Harari;2018;Atualidades
+87;A Vida Invisível de Eurídice Gusmão;Martha Batalha;2016;Drama
+88;O Filho de Mil Homens;Valter Hugo Mãe;2011;Ficção
+89;Ensaio Sobre a Cegueira;José Saramago;1995;Drama
+90;Memorial do Convento;José Saramago;1982;Histórico
+91;O Evangelho Segundo Jesus Cristo;José Saramago;1991;Filosofia
+92;O Ano da Morte de Ricardo Reis;José Saramago;1984;Ficção
+93;Leite Derramado;Chico Buarque;2009;Drama
+94;Budapeste;Chico Buarque;2003;Drama
+95;Estorvo;Chico Buarque;1991;Drama
+96;A Idade da Razão;Jean-Paul Sartre;1945;Filosofia
+97;O Ser e o Nada;Jean-Paul Sartre;1943;Filosofia
+98;O Estrangeiro;Albert Camus;1942;Filosofia
+99;A Peste;Albert Camus;1947;Filosofia
+100;Os Sofrimentos do Jovem Werther;Johann Wolfgang von Goethe;1774;Romance
